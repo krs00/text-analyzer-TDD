@@ -28,5 +28,6 @@ function numberOfOccurrencesInText(word, text) {
    
     return wordCount; 
   }
-
 // PRACTICE FUNCTION BAD WORDS
+
+// UI Logic
